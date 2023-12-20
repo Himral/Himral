@@ -27,7 +27,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/himral-garg-a2b30621a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/moonpieAKAbetty"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 
 </p>
