@@ -6,6 +6,7 @@
 - I am currently studying in prefinal year of my college in BTech Computer Science Engineering branch with an overall CGPA of 8.0. 
 - I am a mentee at Codess.Cafe community since Febraury 2022
 - I am a swiftie so I love listening to songs of Taylor Swift while coding.
+- I am currently learning MERN stack
 
 ### My Tech Stack:
 
